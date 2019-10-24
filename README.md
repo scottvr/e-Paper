@@ -3,12 +3,12 @@ waveshare electronics
 ![waveshare_logo.png](waveshare_logo.png)
 
 ## 中文:  
-Jetson Nano、Raspberry Pi Python ONLY
+Jetson Nano、Raspberry Pi Python ONLY.
 This fork exists solely to be able to do this:
 
 sudo pip3 install git+https://github.com/scottvr/e-Paper
 
-Rersulting in having the epd modules install globally via pip along with 
+Resulting in having the epd modules installed globally via pip along with 
 a project's other dependencies.
     
 更多资料请在官网上搜索:  
